@@ -1,4 +1,4 @@
-export class FilterProductDto {
+export class FilterProductDTO {
   search: string;
   category: string;
 }
